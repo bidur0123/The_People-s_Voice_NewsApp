@@ -112,7 +112,7 @@ class NewsContainer extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               FadeInImage.assetNetwork(
-                  height: 300,
+                  height: 250,
                   width: MediaQuery.of(context).size.width,
                   fit: BoxFit.fitHeight,
                   placeholder: "assets/img/placeholder.jfif",
